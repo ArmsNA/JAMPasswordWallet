@@ -7,3 +7,5 @@ The master password by default is "master" without quotes.
 Certain interactions with the program, such as accessing logins, and failed/successful password attempts, generate xml entries in a wallet.log file. 
 
 The program also features a time-based automatic prompt followed by logout.
+
+I would be interested in adding a password generator and cloud storage of logins and hashes in future iterations.
